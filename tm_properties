@@ -1,0 +1,13 @@
+excludeInFileChooser = "{$excludeInFileChooser,log,tmp,target,project/boot}"
+excludeInBrowser = "{$excludeInBrowser,log,tmp,target,project/boot}"
+excludeInFolderSearch = "{$excludeInFolderSearch,log,tmp,target,project/boot}"
+
+[ source ]
+tabSize = 4
+showInvisibles = true
+softWrap = false
+wrapColumn = 100
+
+[ *.{txt,md,mdown,markdown} ]
+softWrap = true
+wrapColumn = 80
