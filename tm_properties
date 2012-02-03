@@ -2,6 +2,9 @@ excludeInFileChooser = "{$excludeInFileChooser,log,tmp,target,project/boot}"
 excludeInBrowser = "{$excludeInBrowser,log,tmp,target,project/boot}"
 excludeInFolderSearch = "{$excludeInFolderSearch,log,tmp,target,project/boot}"
 
+fontSize = 14
+fontName  = "Inconsolata" 
+
 [ source ]
 tabSize = 4
 showInvisibles = true
