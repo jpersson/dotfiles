@@ -1,6 +1,6 @@
-excludeInFileChooser = "{$excludeInFileChooser,log,tmp,target,project/boot}"
-excludeInBrowser = "{$excludeInBrowser,log,tmp,target,project/boot}"
-excludeInFolderSearch = "{$excludeInFolderSearch,log,tmp,target,project/boot}"
+excludeInFileChooser = "{$excludeInFileChooser,log,tmp,target,project/boot,lib_managed}"
+excludeInBrowser = "{$excludeInBrowser,log,tmp,target,project/boot,lib_managed}"
+excludeInFolderSearch = "{$excludeInFolderSearch,log,tmp,target,project/boot,lib_managed}"
 
 fontSize = 14
 fontName  = "Inconsolata" 
