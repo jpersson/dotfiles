@@ -2,8 +2,8 @@ excludeInFileChooser = "{$excludeInFileChooser,log,tmp,target,project/boot,lib_m
 excludeInBrowser = "{$excludeInBrowser,log,tmp,target,project/boot,lib_managed}"
 excludeInFolderSearch = "{$excludeInFolderSearch,log,tmp,target,project/boot,lib_managed}"
 
-fontSize = 14
-fontName  = "Inconsolata" 
+fontSize = 13
+fontName  = "Envy Code R" 
 
 softTabs = true
 tabSize = 4
